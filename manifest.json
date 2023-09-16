@@ -1,0 +1,12 @@
+{
+    "name": "Hokie Remind",
+    "version": "1.0.0",
+    "description": "pulls from external sites to make a list of deadlines",
+    "manifest_version": 3,
+    "author": "Sampurna Chapagain",
+    "action":{
+        "default_icon": "hokie.png",
+        "default_popup": "index.html",
+        "default_title": "Hokie Remind"
+    }
+}
